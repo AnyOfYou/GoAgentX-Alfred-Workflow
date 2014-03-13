@@ -1,5 +1,4 @@
 #GoAgentX-Alfred-Workflow
-===========================
 GoAgentX的Alfred Workflow脚本
 
 * gax[p,g,a]，分别将GoAgentX切换为Pac，Global和Standalone模式
